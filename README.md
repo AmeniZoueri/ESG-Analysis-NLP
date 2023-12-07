@@ -1,4 +1,2 @@
 # ESG-Analysis-NLP
-Dans ce projet, on va utiliser le Natural Language Processeing (NLP) et
-le Zero Shot Learning model (ZSL) pour analyser un rapport RSE ,afin
-de classer chaque phrase dans l'une des catégories relatives à l'ESG.
+In this project, I used NLP and ZSL to analyze a CSR report to classify each sentence into one of several ESG-related categories.
